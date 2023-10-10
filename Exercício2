@@ -1,1 +1,27 @@
+#Exercício 2
+"""
+Exercícios
+
+1) Mude a cor da linha
+Alteração feita
+2) Mude o formato da tartaruga
+Mudei
+3) Mude o tamanho do quadrado
+Mudei
+"""
+
+import turtle
+
+turtle = turtle.Turtle()
+turtle.shape('turtle')#Modifiquei o formato da tartaruga agora ela deixou de ser apenas uma seta e passou a ser uma tartarugazinha
+
+turtle.color("green")#Alteração da cor
+turtle.forward(150)#Alterei
+turtle.left(90)
+turtle.forward(150)#Alterei
+turtle.left(90)
+turtle.forward(150)#Alterei
+turtle.left(90)
+turtle.forward(150)#Alterei
+#end
 
